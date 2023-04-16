@@ -1,10 +1,31 @@
 ---
 ---
 
-# Lab Website Template
+# KAIST Systems Intelligence Lab
+
+(under construction - please check back soon!) 
+
+<!-- <video loop autoplay>
+  <source src="{{ '/images/background_cool.webm' | relative_url }}" type="video/webm">
+  Your browser does not support the video tag.
+</video> -->
+
+<video loop autoplay style="position: relative;">
+  <source src="{{ '/images/background_cool.webm' | relative_url }}" type="video/webm">
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0,0,0,0.5); z-index: 1;"></div>
+  Your browser does not support the video tag.
+</video>
+
 
 [Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
 Spend less time worrying about managing a website and citations, and more time running your lab.
+
+
+<!-- comment 
+include video
+-->
+
+
 
 {%
   include button.html
