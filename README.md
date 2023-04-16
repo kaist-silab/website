@@ -11,6 +11,10 @@
 
 Other ways to preview [here](https://greene-lab.gitbook.io/lab-website-template-docs/getting-started/preview-your-site#on-your-computer-locally)
 
+## Deploying
+
+We deploy with the [Jekyll action](https://github.com/kaist-silab/website/blob/main/.github/workflows/jekyll.yml) as recommended by Github
+
 
 [**Documentation**](https://greene-lab.gitbook.io/lab-website-template-docs)
 
