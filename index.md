@@ -5,10 +5,10 @@
 
 (under construction - please check back soon!) 
 
-<video loop autoplay>
+<!-- <video loop autoplay>
   <source src="{{ '/images/background_cool.webm' | relative_url }}" type="video/webm">
   Your browser does not support the video tag.
-</video>
+</video> -->
 
 
 
