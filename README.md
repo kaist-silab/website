@@ -1,5 +1,7 @@
 <h1 align="center">KAIST SILAB</h1>
 
+> [!NOTE]  
+> This website is actually not being used at the moment. Please refer to the [official website](http://silab.kaist.ac.kr/) for the most recent information!
 
 ## Previewing (locally)
 1. Install Docker Desktop (recommended) or just Docker and start it.
